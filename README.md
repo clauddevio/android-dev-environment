@@ -19,3 +19,5 @@ A clear, repeatable guide for new machines.
 - **Gradle sync failed** → Check JDK version matches project
 - **Emulator slow** → Enable hardware virtualization in BIOS, use x86_64 images
 - **ADB not found** → Ensure `platform-tools` is in your PATH
+
+You can reach out for any questions regarding the above steps.
